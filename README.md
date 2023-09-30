@@ -20,13 +20,10 @@
 </p>
   
 ##
-<div>
-  <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Gabyperin&show_icons=true&theme=midnight-purple" />
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabyperin&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "Gabyperin" />
-</div>
+
 <div> 
-  <a href="https://www.instagram.com/gabiialvesp_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:gabiap02@gmail.com" target="_blank">
+  <a href="https://www.instagram.com/vitor.ferreira6/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:ggaa9974@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
