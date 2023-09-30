@@ -15,9 +15,7 @@
   <img align="center" alt="gabi-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
    
-<p align="center">
-<img  width="350" height="1">
-</p>
+
   
 ##
 
@@ -25,6 +23,4 @@
   <a href="https://www.instagram.com/vitor.ferreira6/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:ggaa9974@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
-![Snake animation](https://github.com/GabrielSSGitb/GabrielSSGitb/blob/output/github-contribution-grid-snake.svg)
